@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: 7833973e635984195baa433a32b0b362
+timeCreated: 1523114538
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Ufo_Body_Down
+    100004: Ufo_Body_Down_001
+    100006: Ufo_Body_Down_002
+    100008: Ufo_Body_Down_003
+    100010: Ufo_Body_Down_004
+    100012: Ufo_Body_Down_005
+    100014: Ufo_Body_Down_006
+    100016: Ufo_Body_Down_007
+    100018: Ufo_Body_Down_008
+    100020: Ufo_Body_Down_009
+    100022: Ufo_Engine_1
+    100024: Ufo_Large_2
+    100026: Ufo_Large_2_001
+    100028: Ufo_Large_2_002
+    100030: Ufo_Large_2_003
+    100032: Ufo_Large_2_004
+    100034: Ufo_Large_2_005
+    100036: Ufo_Large_2_006
+    100038: Ufo_Large_2_007
+    100040: Ufo_Large_2_008
+    100042: Ufo_Large_2_009
+    100044: Ufo_Main_Body
+    100046: Ufo_Ring_1
+    100048: Ufo_Ring_5
+    100050: Ufo_Ring_6
+    100052: Ufo_Ring_6_001
+    100054: Ufo_Sensoren
+    100056: Ufo_Sensoren_001
+    100058: Ufo_Sensoren_002
+    100060: Ufo_Sensoren_003
+    100062: Ufo_Sensoren_004
+    100064: Ufo_Ufo_Engine_2
+    400000: //RootNode
+    400002: Ufo_Body_Down
+    400004: Ufo_Body_Down_001
+    400006: Ufo_Body_Down_002
+    400008: Ufo_Body_Down_003
+    400010: Ufo_Body_Down_004
+    400012: Ufo_Body_Down_005
+    400014: Ufo_Body_Down_006
+    400016: Ufo_Body_Down_007
+    400018: Ufo_Body_Down_008
+    400020: Ufo_Body_Down_009
+    400022: Ufo_Engine_1
+    400024: Ufo_Large_2
+    400026: Ufo_Large_2_001
+    400028: Ufo_Large_2_002
+    400030: Ufo_Large_2_003
+    400032: Ufo_Large_2_004
+    400034: Ufo_Large_2_005
+    400036: Ufo_Large_2_006
+    400038: Ufo_Large_2_007
+    400040: Ufo_Large_2_008
+    400042: Ufo_Large_2_009
+    400044: Ufo_Main_Body
+    400046: Ufo_Ring_1
+    400048: Ufo_Ring_5
+    400050: Ufo_Ring_6
+    400052: Ufo_Ring_6_001
+    400054: Ufo_Sensoren
+    400056: Ufo_Sensoren_001
+    400058: Ufo_Sensoren_002
+    400060: Ufo_Sensoren_003
+    400062: Ufo_Sensoren_004
+    400064: Ufo_Ufo_Engine_2
+    2100000: UFO
+    2300000: Ufo_Body_Down
+    2300002: Ufo_Body_Down_001
+    2300004: Ufo_Body_Down_002
+    2300006: Ufo_Body_Down_003
+    2300008: Ufo_Body_Down_004
+    2300010: Ufo_Body_Down_005
+    2300012: Ufo_Body_Down_006
+    2300014: Ufo_Body_Down_007
+    2300016: Ufo_Body_Down_008
+    2300018: Ufo_Body_Down_009
+    2300020: Ufo_Engine_1
+    2300022: Ufo_Large_2
+    2300024: Ufo_Large_2_001
+    2300026: Ufo_Large_2_002
+    2300028: Ufo_Large_2_003
+    2300030: Ufo_Large_2_004
+    2300032: Ufo_Large_2_005
+    2300034: Ufo_Large_2_006
+    2300036: Ufo_Large_2_007
+    2300038: Ufo_Large_2_008
+    2300040: Ufo_Large_2_009
+    2300042: Ufo_Main_Body
+    2300044: Ufo_Ring_1
+    2300046: Ufo_Ring_5
+    2300048: Ufo_Ring_6
+    2300050: Ufo_Ring_6_001
+    2300052: Ufo_Sensoren
+    2300054: Ufo_Sensoren_001
+    2300056: Ufo_Sensoren_002
+    2300058: Ufo_Sensoren_003
+    2300060: Ufo_Sensoren_004
+    2300062: Ufo_Ufo_Engine_2
+    3300000: Ufo_Body_Down
+    3300002: Ufo_Body_Down_001
+    3300004: Ufo_Body_Down_002
+    3300006: Ufo_Body_Down_003
+    3300008: Ufo_Body_Down_004
+    3300010: Ufo_Body_Down_005
+    3300012: Ufo_Body_Down_006
+    3300014: Ufo_Body_Down_007
+    3300016: Ufo_Body_Down_008
+    3300018: Ufo_Body_Down_009
+    3300020: Ufo_Engine_1
+    3300022: Ufo_Large_2
+    3300024: Ufo_Large_2_001
+    3300026: Ufo_Large_2_002
+    3300028: Ufo_Large_2_003
+    3300030: Ufo_Large_2_004
+    3300032: Ufo_Large_2_005
+    3300034: Ufo_Large_2_006
+    3300036: Ufo_Large_2_007
+    3300038: Ufo_Large_2_008
+    3300040: Ufo_Large_2_009
+    3300042: Ufo_Main_Body
+    3300044: Ufo_Ring_1
+    3300046: Ufo_Ring_5
+    3300048: Ufo_Ring_6
+    3300050: Ufo_Ring_6_001
+    3300052: Ufo_Sensoren
+    3300054: Ufo_Sensoren_001
+    3300056: Ufo_Sensoren_002
+    3300058: Ufo_Sensoren_003
+    3300060: Ufo_Sensoren_004
+    3300062: Ufo_Ufo_Engine_2
+    4300000: Ufo_Main_Body
+    4300002: Ufo_Large_2_009
+    4300004: Ufo_Large_2_008
+    4300006: Ufo_Large_2_007
+    4300008: Ufo_Large_2_006
+    4300010: Ufo_Large_2_005
+    4300012: Ufo_Body_Down_009
+    4300014: Ufo_Body_Down_008
+    4300016: Ufo_Body_Down_007
+    4300018: Ufo_Body_Down_006
+    4300020: Ufo_Body_Down_005
+    4300022: Ufo_Ring_6_001
+    4300024: Ufo_Sensoren_004
+    4300026: Ufo_Large_2_004
+    4300028: Ufo_Body_Down_004
+    4300030: Ufo_Body_Down_003
+    4300032: Ufo_Large_2_003
+    4300034: Ufo_Sensoren_003
+    4300036: Ufo_Sensoren_002
+    4300038: Ufo_Large_2_002
+    4300040: Ufo_Body_Down_002
+    4300042: Ufo_Body_Down_001
+    4300044: Ufo_Large_2_001
+    4300046: Ufo_Sensoren_001
+    4300048: Ufo_Sensoren
+    4300050: Ufo_Engine_1
+    4300052: Ufo_Ring_5
+    4300054: Ufo_Ring_6
+    4300056: Ufo_Ufo_Engine_2
+    4300058: Ufo_Large_2
+    4300060: Ufo_Ring_1
+    4300062: Ufo_Body_Down
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UFO
+    second: {fileID: 2100000, guid: eff93dcdf6b4e4463b0ea825192af645, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
